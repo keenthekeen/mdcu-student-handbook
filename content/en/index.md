@@ -1,27 +1,15 @@
 ---
-title: Introduction
+title: คู่มือนิสิต
 description: ''
 position: 1
 category: ''
-features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+badge: Draft
 ---
 
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
+สวัสดี
 
-[Module]() for [NuxtJS](https://nuxtjs.org).
+นี่คือคู่มือนิสิต สำหรับนิสิตที่ศึกษาในหลักสูตรแพทยศาสตรบัณฑิต (หลักสูตรปกติ) <span class="text-red-500">มีผลเป็นข้อบังคับกับทั้งนิสิตและหน่วยงานของคณะ</span>
 
-<alert type="success">
+หากพบว่ามีหน่วยงานใดไม่ปฏิบัติตามคู่มือนี้ <span class="text-red-500">ให้ฟ้อง `อ.ดนัย`</span>
 
-Your documentation has been created successfully!
-
-</alert>
-
-## Features
-
-<list :items="features"></list>
-
-<p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
+ขอให้สนุกกับการเรียน

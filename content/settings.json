@@ -1,10 +1,10 @@
 {
   "title": "MDCU Student Handbook",
-  "url": "",
+  "url": "https://handbook.docchula.com",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/logo.png",
+    "dark": "/logo.png"
   },
-  "github": "keenthekeen/mdcu-student-handbook",
+  "github": "",
   "twitter": ""
 }
